@@ -33,3 +33,14 @@ rm -rf %{buildroot}
 %defattr(-,root,root)
 %{python_sitelib}/*
 
+
+
+%changelog
+* Wed Jun 08 2011 Antoine Ginies <aginies@mandriva.com> 1.1.0-1mdv2011.0
++ Revision: 683276
+- import python-yadis
+
+
+* Wed Jun 8 2011 Antoine Ginies <aginies@mandriva.com> 1.1.0
+- first release for Mandriva 
+
