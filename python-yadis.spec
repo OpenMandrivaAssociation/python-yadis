@@ -1,7 +1,7 @@
 %define module yadis
 Name: 		python-%module
 Version: 	1.1.0
-Release:	%mkrel 1
+Release:	2
 License: 	GPL
 Group: 		Development/Python
 BuildRoot: 	%{_tmppath}/%{name}-%{version}-build
