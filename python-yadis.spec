@@ -7,7 +7,7 @@ Group: 		Development/Python
 BuildRoot: 	%{_tmppath}/%{name}-%{version}-build
 BuildRequires: 	python-devel
 Requires: 	python-urljr
-Url: 		http://www.openidenabled.com/yadis/libraries/python
+Url: 		https://www.openidenabled.com/yadis/libraries/python
 Source: 	http://www.openidenabled.com/resources/downloads/python-openid/python-yadis-%{version}.tar.gz
 Summary: Python library for yadis service discovery
 Buildarch:	noarch
